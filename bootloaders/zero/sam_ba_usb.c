@@ -153,7 +153,7 @@ char cfgDescriptor[] =
 };
 
 #ifndef STRING_MANUFACTURER
-#  define STRING_MANUFACTURER "Arduino LLC"
+#  define STRING_MANUFACTURER "Hutscape"
 #endif
 
 #ifndef STRING_PRODUCT
